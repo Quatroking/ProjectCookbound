@@ -2,5 +2,11 @@
     "name" : "Cookbound",
     "version" : "Beta v. Enraged Koala",
     "path" : ".",
-	"author" : "Quatroking"
+	"dependencies" : [],
+	"metadata" : {
+        "author" : "Project Cookbound Collaborators",
+        "version" : "1.0",
+        "description" : "Complete overhaul of the way cooking works in Starbound. New recipes, new foods, new ingredients and plenty more.",
+        "support_url" : "https://github.com/Quatroking/ProjectCookbound/issues"
+    }
 }
