@@ -1,0 +1,14 @@
+{
+  "itemName" : "q_cb_smoked_cheese",
+  "rarity" : "Common",
+  "inventoryIcon" : "q_cb_smoked_cheese.png",
+  "description" : "A cheese that has been smoked! Nyoron~",
+  "shortdescription" : "Smoked Cheese",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

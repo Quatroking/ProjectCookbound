@@ -1,0 +1,40 @@
+{
+  "objectName" : "q_cb_deepfryer",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "subtitle" : "Psssh!!",
+  "category" : "crafting",
+  "price" : 1000,
+  "description" : "Creator of calories!",
+  "shortdescription" : "Deepfryer",
+  "race" : "apex",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "A simple Deepfryer.",
+  "avianDescription" : "A device for deepfrying food. Very unhealthy.",
+  "floranDescription" : "Floran ussse thisss on human?",
+  "glitchDescription" : "Hungry. Cooking device identified.",
+  "humanDescription" : "A Deepfryer. I've never used one.",
+  "hylotlDescription" : "We can quickly fry food in this.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "q_cb_deepfryer.png:<color>",
+      "imagePosition" : [-5, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "recipeGroup" : "q_cb_deepfryer",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/q_cb/blender.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

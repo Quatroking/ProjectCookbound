@@ -1,0 +1,5 @@
+{
+  "input" : [  ],
+  "output" : { "item" : "q_cb_ricecooker", "count" : 1 },
+  "groups" : [ "mod", "q_misc"  ]
+}

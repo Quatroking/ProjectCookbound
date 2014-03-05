@@ -1,0 +1,41 @@
+{
+  "objectName" : "q_cb_blender",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "subtitle" : "Frrrr!!",
+  "category" : "crafting",
+  "price" : 1000,
+  "description" : "Thing goes inside, pulp comes out!",
+  "shortdescription" : "Blender",
+  "race" : "apex",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "A simple blender.",
+  "avianDescription" : "A device for processing food.",
+  "floranDescription" : "Floran ussse thisss on human?",
+  "glitchDescription" : "Hungry. Cooking device identified.",
+  "humanDescription" : "A blender. I've never used one.",
+  "hylotlDescription" : "We can quickly chop food in this.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "leftImage" : "q_cb_blender_left.png:<color>",
+	  "rightImage" : "q_cb_blender_right.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "recipeGroup" : "q_cb_blender",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/q_cb/blender.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

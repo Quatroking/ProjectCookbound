@@ -1,0 +1,14 @@
+{
+  "itemName" : "q_cb_bolt",
+  "rarity" : "Common",
+  "inventoryIcon" : "q_cb_bolt.png",
+  "description" : "A bolt. Where do I screw this into?",
+  "shortdescription" : "Bolt",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "q_cb_ricecooker",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "subtitle" : "",
+  "category" : "crafting",
+  "price" : 1000,
+  "description" : "Cooks rice. Can also be used for other things.",
+  "shortdescription" : "Rice cooker",
+  "race" : "human",
+
+  "hydrophobic" : true,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "q_cb_ricecooker.png:<color>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "recipeGroup" : "q_cb_ricecooker",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/q_cb/ricecooker.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}
