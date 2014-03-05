@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_dedotated_ham",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_dedotated_ham.png",
+  "description" : "A haunch of dedotated ham. It's ham with a wam!",
+  "shortdescription" : "Dedotated Ham",
+  "handPosition" : [0, -4],
+  "effects" : [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ]
+}

@@ -1,6 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 30 }  ],
-  "output" : { "item" : "q_cb_blender", "count" : 1 },
-  "groups" : [ "mod", "q_misc"  ]
-}

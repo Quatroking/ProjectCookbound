@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_noodle_brick",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_noodle_brick.png",
+  "description" : "A brick of uncooked noodles. I should probably cook this first.",
+  "shortdescription" : "Noodle Brick",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}
