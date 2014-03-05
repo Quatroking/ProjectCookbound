@@ -1,0 +1,38 @@
+{
+  "objectName" : "CB_jar",
+  "rarity" : "Common",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/CB/CB_jar.config",
+    "filter" : [ "CB_jar" ]
+  },
+  "printable" : false,
+  "category" : "crafting",
+  "price" : 1000,
+  "description" : "Pickle everything!",
+  "shortdescription" : "Pickling Jar",
+  "race" : "apex",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "A jar, used to pickle food.",
+  "avianDescription" : "A container used to preserve food.",
+  "floranDescription" : "Jar isss ssshiny.",
+  "glitchDescription" : "Confused. Container is empty.",
+  "humanDescription" : "A jar for pickling stuff. That's some old tech right there!",
+  "hylotlDescription" : "Pickling is a lengthy, but rewarding process.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "CB_jar.png:<color>",
+      "imagePosition" : [-5, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "objectName" : "CB_toaster",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "subtitle" : "",
+  "category" : "crafting",
+  "price" : 1000,
+  "description" : "Thing goes inside, toast comes out!",
+  "shortdescription" : "Toaster",
+  "race" : "apex",
+
+  "hydrophobic" : true,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "leftImage" : "CB_blender_left.png:<color>",
+	  "rightImage" : "CB_blender_right.png:<color>",
+      "imagePosition" : [-7, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "recipeGroup" : "CB_toaster",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/CB/CB_toaster.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}

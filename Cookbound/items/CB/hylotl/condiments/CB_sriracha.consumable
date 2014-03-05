@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_sriracha",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_sriracha.png",
+  "description" : "A bottle of liquid fire. Not for direct consumption.",
+  "shortdescription" : "Sriracha",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

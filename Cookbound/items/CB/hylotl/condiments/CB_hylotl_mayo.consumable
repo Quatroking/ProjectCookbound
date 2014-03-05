@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_hylotl_mayo",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_hylotl_mayo.png",
+  "description" : "A bottle of Mayonnaise, based on a legendary Hylotl recipe. You shouldn't eat this on its own.",
+  "shortdescription" : "Hylotl Mayonnaise",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}
