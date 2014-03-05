@@ -1,8 +1,12 @@
 {
   "objectName" : "q_cb_ricecooker",
   "rarity" : "Common",
-  "objectType" : "container",
-  "subtitle" : "",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/q_cb/ricecooker.config",
+    "filter" : [ "q_cb_ricecooker" ]
+  },
+  "printable" : false,
   "category" : "crafting",
   "price" : 1000,
   "description" : "Cooks rice. Can also be used for other things.",
@@ -23,11 +27,5 @@
       "anchors" : [ "bottom" ]
 
     }
-  ],
-  "recipeGroup" : "q_cb_ricecooker",
-  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
-  "slotCount" : 2,
-  "uiConfig" : "/interface/q_cb/ricecooker.config",
-  "frameCooldown" : 67,
-  "autoCloseCooldown" : 3600
+  ]
 }
