@@ -1,7 +1,7 @@
 {
-  "itemName" : "CB_cornmeal",
+  "itemName" : "CB_wheat_flour",
   "rarity" : "Common",
-  "inventoryIcon" : "CB_cornmeal.png",
-  "description" : "It's a bit more coarse than it's wheat counterpart.",
-  "shortdescription" : "Cornmeal"
+  "inventoryIcon" : "CB_wheat_flour.png",
+  "description" : "A multipurpose pile up of grounded up wheat.",
+  "shortdescription" : "Wheat Flour"
 }
