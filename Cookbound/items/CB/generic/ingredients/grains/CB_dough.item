@@ -1,0 +1,7 @@
+{
+  "itemName" : "CB_dough",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_dough.png",
+  "description" : "A nondescript lump of bread dough, could be any type.",
+  "shortdescription" : "Dough"
+}
