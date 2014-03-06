@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_shchi",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_shchi.png",
+  "description" : "needs a description",
+  "shortdescription" : "Shchi",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

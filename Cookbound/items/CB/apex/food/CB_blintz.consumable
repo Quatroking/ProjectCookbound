@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_blintz",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_blintz.png",
+  "description" : "needs a description",
+  "shortdescription" : "Blintz",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

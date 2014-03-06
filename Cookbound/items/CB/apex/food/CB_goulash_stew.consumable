@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_goulash_stew",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_goulash_stew.png",
+  "description" : "needs a description",
+  "shortdescription" : "Goulash Stew",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_creamy_banana_surprise",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_creamy_banana_surprise.png",
+  "description" : "needs a description",
+  "shortdescription" : "Creamy Banana Surprise",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

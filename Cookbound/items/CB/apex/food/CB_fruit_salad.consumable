@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_fruit_salad",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_fruit_salad.png",
+  "description" : "needs a description",
+  "shortdescription" : "Fruit Salad",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

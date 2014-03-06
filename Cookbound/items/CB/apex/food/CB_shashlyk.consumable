@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_shashlyk",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_shashlyk.png",
+  "description" : "needs a description",
+  "shortdescription" : "Shashlyk",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}
