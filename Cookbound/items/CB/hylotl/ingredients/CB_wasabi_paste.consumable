@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_wasabi_paste",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_wasabi_paste.png",
+  "description" : "Some wasabi paste. Do not inhale.",
+  "shortdescription" : "Wasabi Paste",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}
