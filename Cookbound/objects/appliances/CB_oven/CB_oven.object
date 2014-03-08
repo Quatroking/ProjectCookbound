@@ -1,0 +1,40 @@
+{
+  "objectName" : "CB_oven",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "subtitle" : "Do not leave unattended.",
+  "category" : "crafting",
+  "price" : 1000,
+  "description" : "Heats food. Can also cook food.",
+  "shortdescription" : "Conventional Oven",
+  "race" : "human",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "A simple oven.",
+  "avianDescription" : "An appliance for heating food.",
+  "floranDescription" : "Floran cook meat?",
+  "glitchDescription" : "Hot. Cooking device identified.",
+  "humanDescription" : "An oven. These used to be the hot-topic.",
+  "hylotlDescription" : "We can heat and cook food with this.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "CB_oven.png:<color>",
+      "imagePosition" : [-5, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "recipeGroup" : "CB_oven",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/CB/CB_oven.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}
