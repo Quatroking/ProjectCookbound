@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_poutine",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_poutine.png",
+  "description" : "Fries, Curds, and Gravy, Eh?",
+  "shortdescription" : "Poutine",
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 40
+      }
+    ] ]
+}

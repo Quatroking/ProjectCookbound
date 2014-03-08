@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_unlasagna",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_unlasagna.png",
+  "description" : "A stack of unprepared lasagna sheets.",
+  "shortdescription" : "Unprepared Lasagna"
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 10
+      }
+    ] ]
+}

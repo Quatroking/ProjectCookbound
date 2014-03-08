@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_frybread",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_frybread.png",
+  "description" : "A deep fried flatbread begging for ingredients, but you can eat it as is.",
+  "shortdescription" : "Frybread"
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 10
+      }
+    ] ]
+}

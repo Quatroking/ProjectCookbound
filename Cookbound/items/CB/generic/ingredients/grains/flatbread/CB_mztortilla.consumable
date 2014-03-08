@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_mztortilla",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_mztortilla.png",
+  "description" : "A dry solid corn based tortilla sheet.",
+  "shortdescription" : "Maize Tortilla"
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 10
+      }
+    ] ]
+}

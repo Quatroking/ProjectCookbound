@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_unmacaroni",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_unmacaroni.png",
+  "description" : "A pile of macaroni.",
+  "shortdescription" : "Unprepared Macaroni"
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 10
+      }
+    ] ]
+}

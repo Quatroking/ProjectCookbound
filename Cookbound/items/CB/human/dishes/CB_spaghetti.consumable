@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_spaghetti",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_spaghetti.png",
+  "description" : "Spaghetti Time. *Rock music*",
+  "shortdescription" : "Spaghetti",
+  "handPosition" : [0,0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 40
+      }
+    ] ]
+}
