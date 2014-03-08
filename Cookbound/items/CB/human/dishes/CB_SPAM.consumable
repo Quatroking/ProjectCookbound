@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_SPAM",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_SPAM.png",
+  "description" : "Copyright Infringement in a Can! Copyright Infringement in a Can! Copyright Infringement in a Can! Copyright Infringement in a Can!",
+  "shortdescription" : "Copyright Infringement in a Can",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

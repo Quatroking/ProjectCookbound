@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_hotdog_mustard",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_hotdog_mustard.png",
+  "description" : "Saucage in a bun. Now with extra flavor!",
+  "shortdescription" : "Mustard Hotdog",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

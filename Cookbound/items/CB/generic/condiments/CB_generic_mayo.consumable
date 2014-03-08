@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_generic_mayo",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_generic_mayo.png",
+  "description" : "A jar of Mayonnaise, based on an ancient human recipe. You shouldn't eat this on its own.",
+  "shortdescription" : "Mayonnaise",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

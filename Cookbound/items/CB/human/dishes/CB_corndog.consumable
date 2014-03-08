@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_corndog",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_corndog.png",
+  "description" : "Fried stuff on a stick!",
+  "shortdescription" : "Corndog",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

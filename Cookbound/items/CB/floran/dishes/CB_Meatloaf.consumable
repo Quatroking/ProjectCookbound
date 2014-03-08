@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_Meatloaf",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_Meatloaf.png",
+  "description" : "A loaf made of meat! May or may not be dead.",
+  "shortdescription" : "Meatloaf",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

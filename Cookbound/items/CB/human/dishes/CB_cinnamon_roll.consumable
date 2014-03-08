@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_cinnamon_roll",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_cinnamon_roll.png",
+  "description" : "Goes great with coffee.",
+  "shortdescription" : "Cinnamon Roll",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

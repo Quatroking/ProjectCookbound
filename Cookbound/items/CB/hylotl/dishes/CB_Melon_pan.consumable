@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_Melon_pan",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_Melon_pan.png",
+  "description" : "A piece of bread that's shaped like a melon. Doesn't actually contain melon.",
+  "shortdescription" : "Melon Pan",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_ground_chili",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_ground_chili.png",
+  "description" : "Ground chilli peppers. Spices up your recipes.",
+  "shortdescription" : "Ground Chili Peppers",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_hotdog_chili",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_hotdog_chili.png",
+  "description" : "Saucage in a bun. GOTTA GO FAST!",
+  "shortdescription" : "Chili hotdog",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

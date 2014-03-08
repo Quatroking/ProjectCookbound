@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_Lasagna",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_Lasagna.png",
+  "description" : "A rich tomato sauce layered with lasagna sheets.",
+  "shortdescription" : "Lasagna",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 40
+      }
+    ] ]
+}

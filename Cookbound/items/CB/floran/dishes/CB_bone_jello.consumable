@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_bone_jello",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_bone_jello.png",
+  "description" : "Jello made of bones. A Floran's favorite source of calcium.",
+  "shortdescription" : "Bone Jello",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_hamburger",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_hamburger.png",
+  "description" : "It may not be healthy, but at least it tastes good!",
+  "shortdescription" : "Hamburger",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 30
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_hotdog",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_hotdog.png",
+  "description" : "Saucage in a bun.",
+  "shortdescription" : "Hotdog",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}
