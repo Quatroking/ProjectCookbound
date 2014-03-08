@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_cheesespray",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_cheesespray.png",
+  "description" : "It has a long shelf life, but do you really want it?",
+  "shortdescription" : "Emergency Cheese Spray",
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 30
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_whtortilla",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_whtortilla.png",
+  "description" : "It is flat, and it can wrap. Can also eat if in a pinch.",
+  "shortdescription" : "Flour Tortilla"
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 10
+      }
+    ] ]
+}
