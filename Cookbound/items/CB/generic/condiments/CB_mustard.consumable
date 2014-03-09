@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_mustard",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_mustard.png",
+  "description" : "A jar of Mustard. You shouldn't eat this on its own.",
+  "shortdescription" : "Mustard",
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}
