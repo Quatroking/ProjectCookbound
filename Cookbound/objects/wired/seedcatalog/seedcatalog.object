@@ -1,0 +1,86 @@
+{
+  "objectName" : "seedcatalog",
+  "rarity" : "Common",
+  "objectType" : "wire",
+  "scripts" : [ "/objects/wired/seedcatalog/seedcatalog.lua" ],
+  "scriptDelta" : 5,
+ 
+  
+
+  "filterButtons" : [ 
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/apex.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/apexpressed.png",
+    "filter" : "apex"
+	},
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/avian.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/avianpressed.png",
+    "filter" : "avian"
+	},
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/human.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/humanpressed.png",
+    "filter" : "human"
+	},
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/hylotl.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/hylotlpressed.png",
+    "filter" : "hylotl"
+	},
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/floran.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/floranpressed.png",
+    "filter" : "floran"
+	},
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/glitch.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/glitchpressed.png",
+    "filter" : "glitch"
+	},
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/novakid.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/novakidpressed.png",
+    "filter" : "novakid"
+	},
+    {
+    "baseImage" : "/objects/wired/seedcatalog/icons/other.png",
+    "baseImageChecked" : "/objects/wired/seedcatalog/icons/otherpressed.png",
+    "filter" : "other"
+	}
+  ],
+  
+  "printable" : false,
+  "description" : "When you really need seeds.",
+  "shortdescription" : "Computer Seed Catalog",
+  "race" : "generic",
+  "category" : "crafting",
+
+  "apexDescription" : "I can order seeds from here!",
+  "avianDescription" : "I can order seeds from here!",
+  "floranDescription" : "I can order seeds from here!",
+  "glitchDescription" : "I can order seeds from here!",
+  "humanDescription" : "I can order seeds from here!",
+  "hylotlDescription" : "I can order seeds from here!",
+
+  "inventoryIcon" : "seedcatalogicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "seedcatalog.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 2,
+      "animationCycle" : 0.6,
+      
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  "collision" : "platform"
+
+    }
+  ],
+  
+  "animation" : "/objects/wired/seedcatalog/seedcatalog.animation",
+  "animationParts" : {
+    "tabula" : "seedcatalog.png"
+  },
+  "animationPosition" : [0, 0]
+}
