@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_borscht",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_borscht.png",
+  "description" : "needs a description",
+  "shortdescription" : "Borscht",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}
