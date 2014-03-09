@@ -1,0 +1,40 @@
+{
+  "objectName" : "CB_microwave",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "subtitle" : "Rated at 1125 watts.",
+  "category" : "crafting",
+  "price" : 1000,
+  "description" : "Heats food quickly. Can also cook food.",
+  "shortdescription" : "Microwave Oven",
+  "race" : "human",
+
+  "hydrophobic" : true,
+
+  "apexDescription" : "A microwave oven.",
+  "avianDescription" : "An appliance for heating food.",
+  "floranDescription" : "Floran cook meat?",
+  "glitchDescription" : "Microwaves. Heats up water particles.",
+  "humanDescription" : "A microwave oven. I want some instant noodles now.",
+  "hylotlDescription" : "We can heat and cook food with this.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "CB_microwave.png:<color>",
+      "imagePosition" : [-5, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  "recipeGroup" : "CB_microwave",
+  "openSounds" : [ "/sfx/objects/campfire_use.wav" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/CB/CB_oven.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}
