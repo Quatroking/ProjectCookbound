@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_ketchup",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_ketchup.png",
+  "description" : "A bottle of ketchup. Mostly made from tomatoes.",
+  "shortdescription" : "Ketchup",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

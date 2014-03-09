@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_peanutbutter",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_peanutbutter.png",
+  "description" : "A jar of peanut butter. Doesn't actually contain butter.",
+  "shortdescription" : "Peanut Butter",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}
