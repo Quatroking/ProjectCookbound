@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_donut_chocolate",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_donut_chocolate.png",
+  "description" : "A fried circle of chocolate-flavored calories and sugar.",
+  "shortdescription" : "Chocolate Donut",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

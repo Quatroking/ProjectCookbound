@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_Honey",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_Honey.png",
+  "description" : "A jar of honey. Very sticky!",
+  "shortdescription" : "Honey",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 1
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_donut_sugar",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_donut_sugar.png",
+  "description" : "A fried circle of sugar-flavored calories and.... sugar. Naturally.",
+  "shortdescription" : "Sugar Donut",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

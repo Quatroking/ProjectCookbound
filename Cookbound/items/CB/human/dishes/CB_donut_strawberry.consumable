@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_donut_strawberry",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_donut_strawberry.png",
+  "description" : "A fried circle of strawberry-flavored calories and sugar.",
+  "shortdescription" : "Strawberry Donut",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}

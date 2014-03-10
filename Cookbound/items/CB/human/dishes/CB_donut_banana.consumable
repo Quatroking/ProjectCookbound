@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_donut_banana",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_donut_banana.png",
+  "description" : "A fried circle of banana-flavored calories and sugar.",
+  "shortdescription" : "Banana Donut",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ] ]
+}
