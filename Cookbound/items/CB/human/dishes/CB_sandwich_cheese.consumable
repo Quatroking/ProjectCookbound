@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_sandwich_cheese",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_sandwich_cheese.png",
+  "description" : "Cheese and bread, fresh off the grill.",
+  "shortdescription" : "Grilled Cheese Sandwich",
+  "handPosition" : [0, 0],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 40
+      }
+    ] ]
+}

@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_Taco",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_Taco.png",
+  "description" : "Meat and other stuff, neatly layered in a shell.",
+  "shortdescription" : "Taco",
+  "handPosition" : [0, -4],
+  "effects" : [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ]
+}
