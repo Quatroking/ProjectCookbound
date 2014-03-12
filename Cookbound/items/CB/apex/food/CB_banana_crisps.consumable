@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_banana_crisps",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_banana_crisps.png",
+  "description" : "needs a description",
+  "shortdescription" : "Banana Crisps",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

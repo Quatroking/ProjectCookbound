@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_banana_blintz",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_banana_blintz.png",
+  "description" : "needs a description",
+  "shortdescription" : "Banana Blintz",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

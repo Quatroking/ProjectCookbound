@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_big_apes_banana_flakes_cereal",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_big_apes_banana_flakes_cereal.png",
+  "description" : "Taste the oppression!",
+  "shortdescription" : "Big Ape's Banana Flakes Cereal",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_banana_shake",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_banana_shake.png",
+  "description" : "needs a description",
+  "shortdescription" : "Banana Shake",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}
