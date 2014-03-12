@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_banana_malt_smoothie",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_banana_malt_smoothie.png",
+  "description" : "needs a description",
+  "shortdescription" : "Banana Malt Smoothie",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}
