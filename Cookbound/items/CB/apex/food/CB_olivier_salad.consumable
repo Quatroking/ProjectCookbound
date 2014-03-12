@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_olivier_salad",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_olivier_salad.png",
+  "description" : "needs a description",
+  "shortdescription" : "Olivier Salad",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

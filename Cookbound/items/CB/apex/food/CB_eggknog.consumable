@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_eggknog",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_eggknog.png",
+  "description" : "needs a description",
+  "shortdescription" : "Eggknog",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}
