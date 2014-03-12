@@ -4,5 +4,5 @@
     { "item" : "", "count" : 1 }
   ],
   "output" : { "item" : "CB_shchi", "count" : 1 },
-  "groups" : [ "mod", "kitchen", "consumables" ]
+  "groups" : [ "kitchen", "consumables" ]
 }

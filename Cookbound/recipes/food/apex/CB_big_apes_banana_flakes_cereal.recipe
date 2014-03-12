@@ -4,5 +4,5 @@
     { "item" : "", "count" : 1 }
   ],
   "output" : { "item" : "CB_big_apes_banana_flakes_cereal", "count" : 1 },
-  "groups" : [ "mod", "kitchen", "consumables" ]
+  "groups" : [ "kitchen", "consumables" ]
 }
