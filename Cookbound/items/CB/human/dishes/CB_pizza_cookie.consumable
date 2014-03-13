@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_pizza_cookie",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_pizza_cookie.png",
+  "description" : "It's pizza made from cookie dough.",
+  "shortdescription" : "Cookie Pizza",
+  "handPosition" : [4, -2],
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 40
+      }
+    ] ]
+}
