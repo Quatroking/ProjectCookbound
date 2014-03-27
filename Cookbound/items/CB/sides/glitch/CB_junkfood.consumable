@@ -1,0 +1,14 @@
+{
+  "itemName" : "CB_junkfood",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_junkfood.png",
+  "description" : "It's a pizza slice made from junk.",
+  "shortdescription" : "Junk Food",
+  "handPosition" : [0, -4],
+  "effects" : [
+      {
+        "kind" : "food",
+        "amount" : 20
+      }
+    ]
+}
