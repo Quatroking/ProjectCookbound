@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_leek",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_leek.png",
+  "description" : "Spinning it around has a sort of hypnotizing effect.",
+  "shortdescription" : "Leek",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

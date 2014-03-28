@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_raspberry",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_raspberry.png",
+  "description" : "Don't blow it, eat it.",
+  "shortdescription" : "Raspberry",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

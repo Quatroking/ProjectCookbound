@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_nacho",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_nacho.png",
+  "description" : "A tray of nachos, dry and salty.",
+  "shortdescription" : "Nachos",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

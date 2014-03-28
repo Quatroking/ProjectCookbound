@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_nopalbud",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_nopalbud.png",
+  "description" : "Very wet, washed, watery.",
+  "shortdescription" : "Nopal Bud",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

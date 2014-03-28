@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_maize",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_maize.png",
+  "description" : "Corn by any other name, is still corn.",
+  "shortdescription" : "Maize",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

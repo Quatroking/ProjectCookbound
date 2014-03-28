@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_pear",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_pear.png",
+  "description" : "Like an apple except bottom heavy.",
+  "shortdescription" : "Pear",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

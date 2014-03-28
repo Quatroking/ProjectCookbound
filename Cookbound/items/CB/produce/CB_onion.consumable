@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_onion",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_onion.png",
+  "description" : "After digging many holes I took refuge at the thumb.",
+  "shortdescription" : "Onion",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

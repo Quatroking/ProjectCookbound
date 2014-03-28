@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_onion",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_onion.png",
+  "description" : "I feel super, but that might just be a placebo.",
+  "shortdescription" : "Murphy's Shroom",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 0
+      }
+    ] ]
+}

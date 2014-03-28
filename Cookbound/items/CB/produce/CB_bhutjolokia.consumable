@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_bhutjolokia",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_bhutjolokia.png",
+  "description" : "So hot it is said that it could ghost a person.",
+  "shortdescription" : "Bhut Jolokia",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

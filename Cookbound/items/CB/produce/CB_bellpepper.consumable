@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_bellpepper",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_bellpepper.png",
+  "description" : "A staple of Iron Chef diets.",
+  "shortdescription" : "Bell Pepper",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

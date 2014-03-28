@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_avocado",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_avocado.png",
+  "description" : "The fruit of kings.",
+  "shortdescription" : "Avocado",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 15
+      }
+    ] ]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_cantaloupe",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_cantaloupe.png",
+  "description" : "I can.",
+  "shortdescription" : "Cantaloupe",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

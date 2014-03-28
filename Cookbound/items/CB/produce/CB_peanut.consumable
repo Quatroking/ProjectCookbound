@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_peanut",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_peanut.png",
+  "description" : "Go nuts.",
+  "shortdescription" : "Peanut",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

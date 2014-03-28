@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_nachowb",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_nachowb.png",
+  "description" : "A tray of nachos with bean dip.",
+  "shortdescription" : "Nachos w/ Bean Dip",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

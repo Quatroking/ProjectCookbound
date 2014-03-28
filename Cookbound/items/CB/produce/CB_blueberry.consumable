@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_blueberry",
+  "rarity" : "Common",
+  "inventoryIcon" : "CB_blueberry.png",
+  "description" : "Does not induce any painful watery swelling.",
+  "shortdescription" : "Blueberry",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}
