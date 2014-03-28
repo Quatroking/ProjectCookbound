@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_garlic",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_garlic.png",
+  "description" : "Scares away vampires and fellow crewmen!",
+  "shortdescription" : "Garlic",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

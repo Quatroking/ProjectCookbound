@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_watermelon",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_watermelon.png",
+  "description" : "So many seeds that they could be spat as bullets.",
+  "shortdescription" : "Watermelon",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

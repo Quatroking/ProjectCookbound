@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_shiitake",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_shiitake.png",
+  "description" : "I'd take it.",
+  "shortdescription" : "Shiitake Mushroom",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

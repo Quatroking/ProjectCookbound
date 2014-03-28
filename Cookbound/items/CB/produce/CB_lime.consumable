@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_lime",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_lime.png",
+  "description" : "Put it in a coconut and drink it all up.",
+  "shortdescription" : "Lime",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

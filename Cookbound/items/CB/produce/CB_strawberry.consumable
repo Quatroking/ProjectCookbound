@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_strawberry",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_strawberry.png",
+  "description" : "It's very seedy.",
+  "shortdescription" : "Strawberry",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

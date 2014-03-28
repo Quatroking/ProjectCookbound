@@ -1,0 +1,7 @@
+{
+  "itemName" : "CB_peapod",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_peapod.png",
+  "description" : "There's two peas in this pod.",
+  "shortdescription" : "Pea Pod"
+}

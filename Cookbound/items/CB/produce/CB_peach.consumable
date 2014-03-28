@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_peach",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_peach.png",
+  "description" : "I'm feeling just peachy.",
+  "shortdescription" : "Peach",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

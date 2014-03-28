@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_cucumber",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_cucumber.png",
+  "description" : "Cutting it up and placing it on your eyes can do wonders.",
+  "shortdescription" : "Cucumber",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

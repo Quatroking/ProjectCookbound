@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_habanero",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_habanero.png",
+  "description" : "You want hot, you've come to the right crop.",
+  "shortdescription" : "Habanero",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

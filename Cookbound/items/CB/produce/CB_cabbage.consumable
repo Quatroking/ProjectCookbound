@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_cabbage",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_cabbage.png",
+  "description" : "Leafy green best used steamed.",
+  "shortdescription" : "Cabbage",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}

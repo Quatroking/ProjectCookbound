@@ -1,0 +1,13 @@
+{
+  "itemName" : "CB_lettuce",
+  "rarity" : "common",
+  "inventoryIcon" : "CB_lettuce.png",
+  "description" : "The leafiest greens to ever be encountered.",
+  "shortdescription" : "Lettuce",
+  "effects" : [ [
+      {
+        "kind" : "food",
+        "amount" : 5
+      }
+    ] ]
+}
