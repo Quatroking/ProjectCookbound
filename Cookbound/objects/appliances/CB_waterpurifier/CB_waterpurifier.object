@@ -1,0 +1,32 @@
+{
+  "objectName" : "CB_waterpurifier",
+  "rarity" : "Common",
+  "objectType" : "container",
+  "description" : "It cleans the space water.",
+  "shortdescription" : "Water Purifier",
+  "race" : "human",
+  "category" : "crafting",
+  "price" : 600,
+
+  "apexDescription" : "Cool, clear water. Refreshing!",
+  "avianDescription" : "I could do with a drink.",
+  "floranDescription" : "Floran stand at water ssspitter, talk about who is ssstabbing whom.",
+  "glitchDescription" : "Gossiping. Did you see what that Hylotl was wearing? Outrageous. Also this appears to be a water purifier.",
+  "humanDescription" : "This is like one of those things on the International Space Station back on Earth.",
+  "hylotlDescription" : "A small container of water. To see it in such short supply makes me long for home.",
+
+  "inventoryIcon" : "CB_waterpurifiericon.png",
+  "orientations" : [
+    {
+      "dualImage" : "CB_waterpurifier.png",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}
